@@ -52,6 +52,13 @@ Install my-project with npm
   npx expo start
 ```
 
+## Flow
+
+--> App.js  
+--> Navigation/AppNavigation  
+--> Screens (HomeScreen.js, WelcomeScreen.js, ProductDetails.js)  
+--> Components (categories.js, product.js)
+
 ## Documentation
 
 ### App Images
